@@ -1,9 +1,8 @@
-### Hi there 👋 :bowtie:
+<h1 align='center'> Olá, sou o Danilo Franco.</h1>
 
 <!--
 **francodof/francodof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.linkedin.com/in/danilo-franco-mba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/'></a>
+
+#### Um Pouco Sobre Esta Pessoa
+
+- Graduado em Física <USP / São Paulo />
+- MBA em Administração Estratégica da Produção, Qualidade e Inovação <UNIMEP / Piracicaba />
+- Atualmente cursando a Formação Cientista de Dados < Data Science Academy />
