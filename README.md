@@ -43,8 +43,10 @@
   <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'>  
   <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
 </div>
-<br>
 <h2></h2>
-<div align='center'>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francodof&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francodof&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    
+
